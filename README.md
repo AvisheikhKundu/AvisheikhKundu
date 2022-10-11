@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AvisheikhKundu
 - 👀 I’m interested in Machine Learning, AI
 - 🌱 I’m currently learning C, Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on People who give me the proper instruction to better learning 
 - 📫 How to reach me  : https://www.linkedin.com/in/avisheikh-kundu/
 
 <!---
