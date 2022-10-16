@@ -1,10 +1,10 @@
-(https://twitter.com/avisheikh_/photo)
-#I'm Avisheikh Kundu
-
-###  | Programmer | 
-
+![  | Programmer | ](https://pbs.twimg.com/profile_images/1546509056222695424/nHxvXeJa_400x400.jpg)
+### Hi there 👋, I'm Avisheikh Kundu
+####   | Programmer | 
 
 
+Self motivated Person.
+Always try to be create something different .
 
 Skills: C | PYTHON | HTML | CSS | NODEJS
 
