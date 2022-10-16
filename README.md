@@ -1,7 +1,6 @@
 ![  | Programmer | ](https://pbs.twimg.com/profile_images/1546509056222695424/nHxvXeJa_400x400.jpg)
-### Hi there 👋, I'm Avisheikh Kundu
+###  I'm Avisheikh Kundu
 ####   | Programmer | 
-
 
 Self motivated Person.
 Always try to be create something different .
@@ -9,8 +8,6 @@ Always try to be create something different .
 Skills: C | PYTHON | HTML | CSS | NODEJS
 
 - 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Self motivated Person. Always try to be create something different . 
 - 📫 How to reach me: https://www.linkedin.com/in/avisheikh-kundu/ 
 
 
