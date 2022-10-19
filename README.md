@@ -1,4 +1,4 @@
-![  | Programmer | ](https://pbs.twimg.com/profile_images/1546509056222695424/nHxvXeJa_400x400.jpg)
+![  | Programmer | ](https://media-exp1.licdn.com/dms/image/C5603AQE4GUdVn9rZAg/profile-displayphoto-shrink_800_800/0/1659987950474?e=1671667200&v=beta&t=ZQfRZIcxU4Zxkoo5VfsbnYSf_c7vY7NhiOAyUuC3bJg)
 ### Hi there 👋, I'm Avisheikh Kundu
 ####   | Programmer | 
 
