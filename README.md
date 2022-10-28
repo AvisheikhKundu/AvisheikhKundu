@@ -1,8 +1,6 @@
 ![| Programmer | Web Developer |](https://media-exp1.licdn.com/dms/image/D5603AQGaUcAGfzb6_Q/profile-displayphoto-shrink_200_200/0/1666939078470?e=1672272000&v=beta&t=enDNHln4jP2JsJegdIB7RGQY6FRbRX579K86OHLyjfc)
-
 ### Hi there 👋, I'm Avisheikh Kundu
 #### | Programmer | Web Developer |
-
 
 Self motivated Person. Always try to be create something different 
 
