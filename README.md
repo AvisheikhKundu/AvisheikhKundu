@@ -1,4 +1,5 @@
-![| Programmer | Web Developer |](https://pbs.twimg.com/profile_images/1546509056222695424/nHxvXeJa_400x400.jpg)
+![| Programmer | Web Developer |](https://media-exp1.licdn.com/dms/image/D5603AQGDU3F8UFc_RQ/profile-displayphoto-shrink_800_800/0/1666942840856?e=1672272000&v=beta&t=fXL10VwJuCAdqhQacCYrfRp2e5Jlbz30CsSZBXNrutA)
+
 ### Hi there 👋, I'm Avisheikh Kundu
 #### | Programmer | Web Developer |
 
