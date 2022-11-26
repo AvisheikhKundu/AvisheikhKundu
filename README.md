@@ -1,6 +1,6 @@
 ![| Programmer | Web Developer |](https://media-exp1.licdn.com/dms/image/D5603AQE-Qu4KKyPstg/profile-displayphoto-shrink_800_800/0/1666942928080?e=1672272000&v=beta&t=VbHRGxtWPo2lTGPhGWTSWELA1HkINwYAa9gPEpsNjG0)
 <h1 align="center">Hi 👋, I'm Avisheikh Kundu</h1>
-<h3 align="center">| Tech enthusiast | Programmer | Web Developer |</h3>
+<h3 align="center">| Programmer | UI/UX designer | Web Developer |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avisheikhkundu&label=Profile%20views&color=0e75b6&style=flat" alt="avisheikhkundu" /> </p>
 
