@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Avisheikh Kundu
 #### I am | Programmer | Web Developer | UI/UX designer |
-![I am | Programmer | Web Developer | UI/UX designer |](https://lh3.googleusercontent.com/a/AEdFTp4dZakvaN08hyo55fF8_8kYCRxo1aFtslf1of03=s360-p-rw-no)
-
+![I am | Programmer | Web Developer | UI/UX designer |][(https://lh3.googleusercontent.com/a/AEdFTp4dZakvaN08hyo55fF8_8kYCRxo1aFtslf1of03=s360-p-rw-no)
+](https://lh3.googleusercontent.com/a/AEdFTp5E60Q51Jrv-T7g-jBQ75pqmdVx2Pw4-0cjF8bf=s360-p-rw-no)
 Self Motivated Person
 
 Skills:  HTML5 | CSS3 | JS | Bootstrap | C |
