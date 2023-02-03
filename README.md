@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Avisheikh Kundu
-#### I am a Programmer,Web Developer,UI/UX designer.
+#### I am a  Programmer, Web Developer, UI/UX designer.
 ![I am | Programmer | Web Developer | UI/UX designer |](https://lh3.googleusercontent.com/a/AEdFTp6efGcYJrG4oCgS3i3ZHkgoaDIja4UOW-NzGG27=s360-p-rw-no)
 
 Self Motivated Person
