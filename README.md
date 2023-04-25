@@ -4,7 +4,7 @@
 
 Self Motivated Person
 
-Skills:  HTML5 | CSS3 | JS | Bootstrap | C |
+Skills:  HTML5 | CSS3 | JS | JAVA | C |
 
 - 🌱 I’m currently learning Java 
 - 📫 How to reach me: avisheikh76@gmail.com 
