@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Avisheikh Kundu
 #### I am a  Programmer, Web Developer, UI/UX designer.
 ![I am | Programmer | Web Developer | UI/UX designer |](https://lh3.googleusercontent.com/a/AGNmyxaAjYEJ2oIgRJdRSJyAPX_rkN37fJl5yBeTAi8keQ=s360-c-no)
-Self motivated person
+“Truth can only be found in one place: the code.”
 
 Skills:  | JAVA | HTML5 | CSS3 | JS | C | OOP |
 
