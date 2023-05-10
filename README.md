@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Avisheikh Kundu
 #### I am a  Programmer, Web Developer, UI/UX designer.
-![I am | Programmer | Web Developer | UI/UX designer |][(https://lh3.googleusercontent.com/a/AEdFTp6efGcYJrG4oCgS3i3ZHkgoaDIja4UOW-NzGG27=s360-p-rw-no)](https://camo.githubusercontent.com/18405f7930804d1bcf10e643ff3a8343ccf9d021c8b3c931b3290ad845701ca5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f66376f6d514e6d6769796a6a35736666765a2f67697068792e676966)
+![I am | Programmer | Web Developer | UI/UX designer |][(https://lh3.googleusercontent.com/a/AEdFTp6efGcYJrG4oCgS3i3ZHkgoaDIja4UOW-NzGG27=s360-p-rw-no)]
 
 Self Motivated Person
 
