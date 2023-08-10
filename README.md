@@ -5,7 +5,7 @@
 
 Skills:  | JAVA | HTML5 | CSS3 | JS | C | OOP |
 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Python 
 - 📫 How to reach me: avisheikh76@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
