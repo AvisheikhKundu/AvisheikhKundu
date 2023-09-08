@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Avisheikh Kundu
 #### I am a  Programmer, Web Developer, UI/UX designer.
-![I am | Programmer | Web Developer | UI/UX designer |](https://lh3.googleusercontent.com/a/AGNmyxaAjYEJ2oIgRJdRSJyAPX_rkN37fJl5yBeTAi8keQ=s360-c-no)
+![I am | Programmer  | UI/UX designer |](https://lh3.googleusercontent.com/a/AGNmyxaAjYEJ2oIgRJdRSJyAPX_rkN37fJl5yBeTAi8keQ=s360-c-no)
 “Truth can only be found in one place: the code.”
 
-Skills:  | JAVA | HTML5 | CSS3 | JS | C | OOP |
+Skills: PYTHON | JAVA | OOP | HTML5 | CSS3 | JS | C |
 
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me: avisheikh76@gmail.com 
@@ -25,5 +25,3 @@ Skills:  | JAVA | HTML5 | CSS3 | JS | C | OOP |
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AvisheikhKundu&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AvisheikhKundu)  
-
-![Profile views](https://gpvc.arturio.dev/AvisheikhKundu)  
