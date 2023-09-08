@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Avisheikh Kundu
-#### I am a  Programmer, Web Developer, UI/UX designer.
+#### I am a  Programmer, Java Developer, UI/UX designer.
 ![I am | Programmer  | UI/UX designer |](https://lh3.googleusercontent.com/a/AGNmyxaAjYEJ2oIgRJdRSJyAPX_rkN37fJl5yBeTAi8keQ=s360-c-no)
 “Truth can only be found in one place: the code.”
 
