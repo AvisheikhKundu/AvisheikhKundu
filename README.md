@@ -3,7 +3,7 @@
 
 " Truth can only be found in one place: the code. ”
 
-Skills:  | PYTHON | JAVA | OOP | HTML5 | CSS3 | JS | C |
+Skills: | C | PYTHON | JAVA | OOP | HTML5 | CSS3 | JS |
 
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me: avisheikh76@gmail.com  
