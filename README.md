@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Avisheikh Kundu
+### Hi there 👋, I am Avisheikh Kundu
 ![](https://lh3.googleusercontent.com/a/ACg8ocJ9MXtuW4Hl2Dp9sHq-eMBhxT05AVj0J5DW81VO8syQk-U=s360-c-no)
 
 " Truth can only be found in one place: the code. ”
