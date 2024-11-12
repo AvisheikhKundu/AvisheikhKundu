@@ -5,7 +5,7 @@
 
 Skills: | PYTHON | JAVA | OOP | C | HTML5 | CSS3 | JS |
 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Machine Learning 
 - 📫 How to reach me:    avisheikh.cse@gmail.com 
 
 
