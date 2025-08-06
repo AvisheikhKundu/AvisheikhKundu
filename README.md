@@ -13,7 +13,7 @@
 
 ##  About Me
 
--  Currently exploring the fascinating world of **Machine Learning** and **AI**
+-  Currently exploring the fascinating world of **Machine Learning** and **Deep Learning**
 -  Passionate about creating efficient, scalable solutions
 -  Always eager to learn new technologies and tackle challenging problems
 -  Let's connect: **avisheikh.cse@gmail.com**
@@ -35,7 +35,7 @@
 - **Programming Languages:** Python, Java, C, JavaScript
 - **Web Technologies:** HTML5, CSS3, JavaScript
 - **Programming Paradigms:** Object-Oriented Programming (OOP)
-- **Current Focus:** Machine Learning, Data Science, AI
+- **Current Focus:** Machine Learning, Deep Learning
 
 ##  Connect With Me
 
