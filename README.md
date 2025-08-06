@@ -62,11 +62,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AvisheikhKundu&show_icons=true&theme=algolia&hide_border=true&count_private=true&rank_icon=percentile&include_all_commits=true" alt="GitHub Stats" height="180">
-  <img src="https://streak-stats.demolab.com/?user=AvisheikhKundu&theme=algolia&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub Streak" height="180">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvisheikhKundu&layout=compact&theme=algolia&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages&exclude_repo=AvisheikhKundu" alt="Top Languages" height="180">
 </div>
 
 ## 🎯 GitHub Activity Graph
