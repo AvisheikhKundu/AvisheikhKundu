@@ -1,11 +1,43 @@
 ﻿# Hi there!  I'm Avisheikh Kundu
 
 <div align="center">
-  <img src="https://lh3.googleusercontent.com/a/ACg8ocJ9MXtuW4Hl2Dp9sHq-eMBhxT05AVj0J5DW81VO8syQk-U=s360-c-no" alt="Avisheikh Kundu" width="200" height="200" style="border-radius: 50%;">
+  <im### 🏆 GitHub Achievements
+
+<div align="center">
+  
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=AvisheikhKundu&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AvisheikhKundu&show_icons=true&theme=algolia&hide_border=true&count_private=true&rank_icon=percentile&include_all_commits=true" alt="GitHub Stats" height="180">
+  <img src="https://streak-stats.demolab.com/?user=AvisheikhKundu&theme=algolia&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub Streak" height="180">
 </div>
 
 <div align="center">
-  <h2> Software Developer |  Machine Learning Enthusiast |  Computer Science Student</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvisheikhKundu&layout=compact&theme=algolia&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages&exclude_repo=AvisheikhKundu" alt="Top Languages" height="180">
+</div>
+
+## 🎯 GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvisheikhKundu&theme=tokyo-night&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph">
+</div>tics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AvisheikhKundu&show_icons=true&theme=algolia&hide_border=true&count_private=true&rank_icon=percentile" alt="GitHub Stats" height="165">
+  <img src="https://streak-stats.demolab.com/?user=AvisheikhKundu&theme=algolia&hide_border=true" alt="GitHub Streak" height="165">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvisheikhKundu&layout=compact&theme=algolia&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" alt="Top Languages">
+</div>ps://lh3.googleusercontent.com/a/ACg8ocJ9MXtuW4Hl2Dp9sHq-eMBhxT05AVj0J5DW81VO8syQk-U=s360-c-no" alt="Avisheikh Kundu" width="200" height="200" style="border-radius: 50%;">
+</div>
+
+<div align="center">
+  <h2> Software Developer |  Machine Learning & Deep Learning Enthusiast |  Computer Science Student</h2>
   <p><em>"Truth can only be found in one place: the code."</em></p>
 </div>
 
