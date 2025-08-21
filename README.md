@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Avisheikh Kundu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="center">
-  <b>� Software Engineer | 🤖 AI Explorer | 🎨 Creative Technologist</b>
+  <b>Machine Learning| Deep Learning | 🎨 Creative Technologist</b>
 </p>
 
 <blockquote align="center"><em>"I believe every line of code is a brushstroke on the canvas of innovation."</em></blockquote>
@@ -24,9 +24,9 @@ From a curious kid who broke apart gadgets to a developer who builds them, my jo
 <details open>
 <summary><b>💡 What Drives Me</b></summary>
 
-- � Always exploring the latest in <b>AI, ML, and Deep Learning</b>
-- �️ Building scalable, human-centered solutions
-- � Lifelong learner, always up for a challenge
+-  Currently exploring in <b>ML, and Deep Learning</b>
+-  Building scalable, human-centered solutions
+-  Lifelong learner, always up for a challenge
 - 🤝 Open to collaborations and new opportunities
 
 </details>
@@ -46,10 +46,10 @@ From a curious kid who broke apart gadgets to a developer who builds them, my jo
 </p>
 
 <ul>
-  <li><b>Languages:</b> Python, Java, C, JavaScript</li>
+  <li><b>Languages:</b> Python, Flutter, Java, C, JavaScript</li>
   <li><b>Web:</b> HTML5, CSS3, React, Node.js</li>
   <li><b>AI/ML:</b> TensorFlow, PyTorch, scikit-learn</li>
-  <li><b>Tools:</b> Git, VS Code, Linux, Docker</li>
+  <li><b>Tools:</b> Git, VS Code, Linux, Android Studio</li>
 </ul>
 
 </details>
