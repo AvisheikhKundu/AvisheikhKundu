@@ -94,7 +94,7 @@ From a curious kid who broke apart gadgets to a developer who builds them, my jo
 <details>
 <summary><b>💬 Fun Fact</b></summary>
 
-<blockquote>"I once debugged a project for 12 hours straight, only to realize the bug was a missing semicolon. Now, I always check the little things!"</blockquote>
+<blockquote>"Code tells the ?"</blockquote>
 
 </details>
 
