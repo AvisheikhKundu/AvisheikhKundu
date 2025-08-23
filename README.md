@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Avisheikh Kundu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="center">
-  <b>Machine Learning| Deep Learning | 🎨 Creative Technologist</b>
+  <b>| Machine Learning| Deep Learning | Tech Enthusiast |</b>
 </p>
 
 <blockquote align="center"><em>"I believe every line of code is a brushstroke on the canvas of innovation."</em></blockquote>
