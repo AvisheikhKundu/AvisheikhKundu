@@ -47,7 +47,7 @@ From a curious kid who broke apart gadgets to a developer who builds them, my jo
 
 <ul>
   <li><b>Languages:</b> Python, Flutter, Java, C, JavaScript</li>
-  <li><b>Web:</b> HTML5, CSS3, React, Node.js</li>
+  <li><b>Web:</b> HTML5, CSS3, Node.js</li>
   <li><b>AI/ML:</b> TensorFlow, PyTorch, scikit-learn</li>
   <li><b>Tools:</b> Git, VS Code, Linux, Android Studio</li>
 </ul>
