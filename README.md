@@ -11,7 +11,6 @@
 <blockquote align="center"><em>"I believe every line of code is a brushstroke on the canvas of innovation."</em></blockquote>
 
 ---
-
 <details open>
 <summary><b>🌟 My Story</b></summary>
 
