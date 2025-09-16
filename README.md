@@ -25,8 +25,8 @@ From a curious kid who broke apart gadgets to a developer who builds them, my jo
 
 -  Currently exploring in <b>ML, and Deep Learning</b>
 -  Building scalable, human-centered solutions
--  Lifelong learner, always up for a challenge
-- 🤝 Open to collaborations and new opportunities
+-  Lifelong learner
+
 
 </details>
 
